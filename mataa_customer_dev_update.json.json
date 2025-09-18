@@ -1,6 +1,6 @@
 {
     "update_info_dev": {
-        "min_version_android": "4.0.4",
+        "min_version_android": "4.0.3",
         "min_version_ios": "4.1.2"
     }
 }
